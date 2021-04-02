@@ -18,6 +18,8 @@
 興味のある漫画を探すことができる、また勧めることができる
 
 ## 設計書
+![ER図 ](https://user-images.githubusercontent.com/78335744/113452113-529f8000-943e-11eb-96a7-bb7d34e6eefb.jpg)
+
 
 
 ## チャレンジ要素一覧
