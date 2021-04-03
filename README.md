@@ -19,6 +19,7 @@
 
 ## 設計書
 ![ER図 ](https://user-images.githubusercontent.com/78335744/113452113-529f8000-943e-11eb-96a7-bb7d34e6eefb.jpg)
+https://docs.google.com/spreadsheets/d/1Qp0uSkt0jykfwYZhThRNjsCv08IezQy4CeicdnMuKcc/edit#gid=0
 
 
 
